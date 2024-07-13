@@ -1,11 +1,19 @@
-Hi!
---
+# Project Node + react with MVC
 
-This project isn't really a module, it is simple MVC framework in Node.
+To start the project you can go 
 
-To use it, you must simply copy my files and directories and type `npm start`.
+### Clonning the project
 
-File structure
+After clone
+`npm install`
+`npm start`
+
+### Starting from scratch
+following the instructions here: https://www.npmjs.com/package/node-react-mvc
+
+`npm i node-react-mvc`
+
+## File structure
 ---
 
 **app.js** - Server init script
@@ -37,3 +45,5 @@ File structure
  - **libs /** - different frontend css/js libraries
  
  ----
+
+ based on the project https://gitlab.com/nmish2005/node-mvc Send him a coffee and a tks (nmish2005@gmail.com)
